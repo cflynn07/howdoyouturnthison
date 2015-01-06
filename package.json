@@ -1,0 +1,11 @@
+{
+  "name": "howdoyouturnthison",
+  "version": "1.0.0",
+  "description": "Infer dependent services (such as mongodb, redis, etc) of projects by analyzing contents of their repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casey Flynn <cflynn.us@gmail.com>",
+  "license": "MIT"
+}
